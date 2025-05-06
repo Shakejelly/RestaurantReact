@@ -1,10 +1,10 @@
 import './App.css'
-import RestaurantList from './Components/RestaurantList'
+import RestaurantCreate from './Components/RestaurantCreate'
 
 export default function App(){
   return (
     <>
-    <RestaurantList/>
+    <RestaurantCreate/>
     </>
   )
 }
